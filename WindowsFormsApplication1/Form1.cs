@@ -16,5 +16,8 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+
+        //コメント挿入
+
     }
 }
