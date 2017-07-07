@@ -19,5 +19,6 @@ namespace WindowsFormsApplication2
 
         //コメント挿入2
         //マスターの方も更新をかける
+        //マージ後も残っているはず
     }
 }
