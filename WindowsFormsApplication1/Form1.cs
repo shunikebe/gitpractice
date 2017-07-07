@@ -18,6 +18,7 @@ namespace WindowsFormsApplication1
         }
 
         //コメント挿入
+        //buranti1で編集
 
     }
 }
